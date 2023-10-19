@@ -29,8 +29,8 @@
 - Monitoramento contínuo e ajustes à medida que necessário.
 
 
-🚩
+📌
 
 ### A otimização da velocidade de conexão é um processo em constante evolução que envolve uma combinação de estratégias técnicas para acelerar a transferência de dados entre clientes e servidores.
 
-🚩
+📌
