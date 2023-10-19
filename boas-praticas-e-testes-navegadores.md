@@ -28,8 +28,8 @@
 
 - Utilize ferramentas de integração contínua para garantir que novas alterações não introduzam regressões.
 
-🚩
+📌
 
 ### Boas práticas e testes rigorosos são fundamentais no desenvolvimento Cliente/Servidor para garantir desempenho, segurança e confiabilidade em uma variedade de cenários de uso.
 
-🚩
+📌
