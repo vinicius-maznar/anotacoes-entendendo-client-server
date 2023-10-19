@@ -38,8 +38,8 @@
 
 - **Desempenho:** O desempenho pode ser afetado pela largura de banda, velocidade de conexão e otimizações inadequadas.
 
-🚩
+📌
 
 Aplicações web desempenham um papel fundamental na atual era digital, permitindo que clientes acessem e interajam com uma ampla variedade de serviços e informações pela internet, de forma flexível e acessível.
 
-🚩
+📌
