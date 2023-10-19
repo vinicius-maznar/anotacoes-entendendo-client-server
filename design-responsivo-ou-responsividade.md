@@ -24,8 +24,8 @@
 
 - Blogs, lojas online e aplicativos móveis usam design responsivo para atender a vários dispositivos.
 
-🚩
+📌
 
 ### O design responsivo é essencial para oferecer uma experiência consistente e de alta qualidade aos clientes, independentemente do dispositivo que estão usando.
 
-🚩
+📌
