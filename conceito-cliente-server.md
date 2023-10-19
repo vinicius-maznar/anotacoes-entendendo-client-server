@@ -45,8 +45,8 @@
 - 🎮 **Jogos Online:** Os clientes de jogos online se conectam a servidores de jogos para jogar em rede, enviando e recebendo informações do jogo.
 
 
-⛳
+📌
 
 Em resumo, o cliente desempenha um papel fundamental na comunicação com os servidores na internet, enviando solicitações e recebendo respostas. A relação entre cliente e servidor é essencial para a operação de serviços online, aplicativos e páginas da web que dependem da entrega eficiente de dados e recursos pela internet.
 
-⛳
+📌
