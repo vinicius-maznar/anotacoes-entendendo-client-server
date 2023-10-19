@@ -32,8 +32,8 @@
 
 - **Experiência do Usuário:** A experiência do usuário pode variar entre aplicações web e aplicativos, dependendo do dispositivo e do design.
 
-🚩
+📌
 
 A escolha entre uma aplicação web e um aplicativo para outros dispositivos depende dos objetivos, das necessidades de acesso e das características específicas de cada projeto.
 
-🚩
+📌
