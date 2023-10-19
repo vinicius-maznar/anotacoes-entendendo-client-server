@@ -24,8 +24,8 @@
 
 - Existem vários navegadores disponíveis, incluindo Chrome, Firefox, Safari, Edge e outros, cada um com características e desempenho diferentes.
 
-🚩
+📌
 
 Navegadores desempenham um papel essencial na comunicação Cliente/Servidor, permitindo que os usuários acessem e interajam com conteúdo e serviços online.
 
-🚩
+📌
