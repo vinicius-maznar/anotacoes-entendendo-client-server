@@ -1,10 +1,10 @@
-## Servidor Web: Conceito e Funcionamento
+# ⬅🌐➡ Servidor Web: Conceito e Funcionamento
 
-**Definição:**
+## ⁉ **Definição:**
 
 - Um servidor web é um software que atende a solicitações de clientes, geralmente navegadores da web, para entregar páginas da web, conteúdo ou aplicativos da web. Ele é a base da World Wide Web (WWW).
 
-**Funcionamento:**
+## 🛠 **Funcionamento:**
 
 1. **A Requisição do Cliente:**
    - Um cliente, como um navegador web, envia uma solicitação a um servidor web usando o protocolo HTTP (Hypertext Transfer Protocol).
@@ -21,7 +21,7 @@
 5. **Envio da Resposta:**
    - O servidor web envia a resposta de volta ao cliente por meio do protocolo HTTP.
 
-**Possíveis Erros em Servidores Web:**
+## 🛑 **Possíveis Erros em Servidores Web:**
 
 - **Erro 404 (Not Found):** Indica que o servidor web não conseguiu encontrar o recurso solicitado.
 
@@ -33,7 +33,7 @@
 
 - **Erro 400 (Bad Request):** Indica que a solicitação do cliente é inválida ou mal formada.
 
-**Funcionalidades de Servidores Web:**
+## 🦾 **Funcionalidades de Servidores Web:**
 
 - **Hospedagem de Sites:** Servidores web são usados para hospedar sites, permitindo que eles sejam acessados pela internet.
 
@@ -43,4 +43,8 @@
 
 - **Segurança:** Servidores web incluem recursos de segurança, como SSL/TLS para criptografia.
 
+📌
+
 Servidores web desempenham um papel fundamental na entrega de conteúdo e serviços na internet, tornando-os acessíveis aos clientes por meio de navegadores da web ou aplicativos.
+
+📌
