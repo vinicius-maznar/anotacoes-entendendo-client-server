@@ -1,4 +1,4 @@
-## Boas Práticas para Registros de DNS em Servidores DNS
+# ⚠✔ Boas Práticas para Registros de DNS em Servidores DNS
 
 **1. Atualização Regular:**
 
@@ -60,4 +60,8 @@
 
 - Realize auditorias regulares para garantir a conformidade com as boas práticas de DNS e resolver problemas potenciais.
 
+📌
+
 Adotar boas práticas na configuração e manutenção de registros de DNS é fundamental para garantir a eficiência, a segurança e a disponibilidade dos serviços na internet.
+
+📌
